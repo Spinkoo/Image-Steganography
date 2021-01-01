@@ -1,6 +1,8 @@
 # Image-Steganography
 Image Steganography in the frequency domain 
 
+https://youtu.be/XYZ9XcAZiyI
+
 This application is a projection to a steganography idea in the frequency domain based on the jpeg compression on different colorspaces written in c++ and designed by qt 
 
 
