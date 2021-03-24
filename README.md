@@ -38,7 +38,7 @@ Cons :
 
 Side note: I apologize for the design it wasn't made to impress users but just to make it easier for you to try the algorithm and get some reviews
 
-And here I present to you some of the experimental resuluts : the core of the test was to :
+And here I present to you some of the experimental results : the core of the test was to :
 
 1-Compare the noise in the cover image after inserting it ( using PSNR )
 
